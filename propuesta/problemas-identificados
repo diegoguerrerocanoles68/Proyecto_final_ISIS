@@ -1,0 +1,29 @@
+# Propuesta de solución
+
+## ¿Qué se propone?
+Un **sistema de búsqueda asistida de libros** que haga la consulta simple y accesible para cualquier persona, sin importar su experiencia tecnológica.
+
+## ¿Para quién?
+Adultos mayores, visitantes ocasionales y cualquier usuario de la Biblioteca; también facilita el trabajo del personal.
+
+## ¿Qué problema resuelve?
+Elimina la barrera de no saber usar el computador de búsqueda, permitiendo encontrar la ubicación de un libro de forma guiada.
+
+## ¿Cómo funcionaría?
+1. **Interfaz simplificada:** pantalla con un único campo de búsqueda, letra grande y botones claros.
+2. **Guía paso a paso:** un mini tutorial visual antes de la primera búsqueda.
+3. **Acceso por código QR:** un QR visible en la biblioteca permite abrir el buscador desde el celular del usuario.
+4. **Resultado claro:** el sistema muestra la sección, estante y un mapa sencillo para llegar al libro.
+
+## ¿Qué tecnología podría utilizarse?
+- Aplicación web simple y responsiva (funciona en el computador y el celular)
+- Código QR
+- Base de datos o conexión con el catálogo actual de la biblioteca [verificar con el personal cómo está hecho el catálogo]
+- Pantalla táctil como opción adicional
+
+## Alternativas consideradas
+- Señalización física mejorada (más barata, pero no resuelve la búsqueda)
+- Asistente humano dedicado (efectivo, pero depende de personal disponible)
+
+## Limitaciones
+No se desarrollará en este laboratorio. Habría que confirmar con el CLENA la viabilidad técnica y el permiso de acceso al catálogo.
