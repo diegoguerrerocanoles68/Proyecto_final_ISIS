@@ -7,7 +7,7 @@ Markdown
 ## Integrantes
 - Sair Cervantes Rey
 - Yussef Kassem Issa
-- Diego Gueerero
+- Diego Guerrero
 - Andrés Badillo Cervera
   
 ---
