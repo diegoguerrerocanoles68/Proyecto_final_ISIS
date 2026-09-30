@@ -1,0 +1,25 @@
+# Sprint Planning
+
+**Fecha y hora:** [FECHA REAL] – [HORA]
+**Medio:** Microsoft Teams
+**Asistentes:** [los 4 integrantes]
+**Evidencia:** captura en `evidencias/evidencias-scrum/planning-01.png`
+
+## Objetivo del Sprint
+Identificar y formular un problema real del CLENA y proponer una solución tecnológica, dejando todo documentado en GitHub.
+
+## Tareas seleccionadas del Product Backlog
+| # | Tarea | Responsable | Prioridad | Entregable |
+|---|---|---|---|---|
+| 1 | Crear repositorio y estructura de carpetas | [NOMBRE] | Alta | README.md |
+| 2 | Crear GitHub Project e Issues | [NOMBRE] | Alta | Project |
+| 3 | Redactar observaciones | [NOMBRE] | Alta | observaciones.md |
+| 4 | Listar problemas identificados | [NOMBRE] | Alta | problemas-identificados.md |
+| 5 | Formular problema seleccionado | [NOMBRE] | Alta | problema-seleccionado.md |
+| 6 | Redactar propuesta de solución | [NOMBRE] | Media | propuesta-solucion.md |
+| 7 | Organizar fotos y videos | [NOMBRE] | Media | evidencias/ |
+| 8 | Informe final | Todos | Alta | Informe |
+| 9 | Presentación (10 min) | Todos | Media | Presentación |
+
+## Resultado esperado
+Repositorio completo, informe y presentación listos antes de [FECHA DE ENTREGA].
