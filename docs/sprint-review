@@ -1,19 +1,20 @@
 # Sprint Review
 
-**Fecha:** 
 **Medio:** Microsoft Teams
+**Asistentes:** Andrés, Yussef, Sair, Diego
 **Evidencia:** `evidencias/evidencias-scrum/review-01.png`
 
 ## Lo que presentamos
 - **Problema identificado:** Las personas con poca experiencia tecnológica que visitan la Biblioteca del CLENA, como adultos mayores y visitantes ocasionales, tienen dificultades para ubicar libros, ya que la búsqueda depende de un computador. Además, muchas no saben usar los computadores disponibles para el público, ni para encenderlos ni para tareas básicas como investigar o escribir un correo.
-- **Evidencias de observación:** Fotografías de la Biblioteca y del Archivo Histórico, y las notas tomadas durante la visita (ver `evidencias/fotografias/` y `problema/observaciones.md`).
-- **Propuesta de solución:** Un sistema de búsqueda asistida de libros (interfaz simple, mini tutorial y acceso por código QR) acompañado de una guía de apoyo digital básico para aprender a usar el computador.
-- **Estado del proyecto:** Repositorio creado y organizado, problema formulado y propuesta redactada. Pendientes: [completar según el tablero de GitHub Projects: tareas en Done y tareas pendientes].
+- **Evidencias de observación:** Notas y observaciones de la visita al CLENA (ver `problema/observaciones.md`) y evidencias fotográficas (ver `evidencias/fotografias/`).
+- **Propuesta de solución:** Un sistema de búsqueda asistida de libros (interfaz simple, mini tutorial y acceso por código QR) acompañado de una guía de apoyo digital básico para aprender a usar el computador. Ver `propuesta/propuesta-solucion.md`.
+- **Estado del proyecto:** Durante el Sprint se identificó y formuló el problema, se organizó la documentación y las evidencias, y se desarrolló la propuesta de solución, con seguimiento en 10 Daily Scrum (ver `docs/daily-scrum.md`). Quedan pendientes los ajustes finales de documentación, la organización final de las evidencias, el informe final y la presentación.
 
-## Retroalimentación recibida
-- [Comentarios del docente o de los compañeros durante la reunión]
-- 
 
 ## Ajustes pendientes
-- [Cambios que decidieron hacer a partir de la retroalimentación]
+- Terminar de organizar y clasificar las evidencias finales (pendiente señalado en los Daily 8 y 9).
+- Revisar la redacción y completar los últimos detalles de la documentación (Daily 6 y 7).
+- Redactar el informe final con la reflexión individual de cada integrante.
+- Preparar la presentación de 10 minutos.
+- [Cambios adicionales que decidan a partir de la retroalimentación]
 -
