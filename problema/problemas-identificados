@@ -1,4 +1,4 @@
-# Problemas identificados (mínimo 3)
+# Problemas identificados 
 
 ## Problema 1 – Dificultad para buscar libros en la Biblioteca
 | Elemento | Descripción |
@@ -7,30 +7,32 @@
 | Usuario | Adultos mayores, visitantes ocasionales y personas con poca experiencia tecnológica |
 | Situación | La ubicación de los libros se consulta en un computador de la biblioteca |
 | Problema | Quien no sabe usar el computador no logra encontrar el libro por sí solo |
-| Evidencia | foto-01 (computador), observación directa |
+| Evidencia | Observación directa. Fotografía del computador de búsqueda: `evidencias/fotografias/foto-01-computador-biblioteca.jpg` |
 | Impacto | Usuarios desorientados, dependencia del personal, material poco consultado |
-| Oportunidad tecnológica | Búsqueda simplificada, guía paso a paso, acceso por QR desde el celular |
+| Oportunidad tecnológica | Búsqueda simplificada, guía paso a paso y acceso por código QR desde el celular |
 
-## Problema 2 – Riesgo de pérdida de información en el Archivo Histórico
+## Problema 2 – Falta de conocimientos básicos para usar los computadores de la Biblioteca
+| Elemento | Descripción |
+|---|---|
+| Espacio | Biblioteca (zona de computadores) |
+| Usuario | Adultos mayores y personas con poca experiencia digital |
+| Situación | La biblioteca cuenta con computadores disponibles para el público |
+| Problema | Muchas personas no saben usarlos: encenderlos, navegar en internet, investigar o escribir un correo electrónico |
+| Evidencia | Observación directa. Fotografía de la zona de computadores: `evidencias/fotografias/foto-03-zona-computadores.jpg` |
+| Impacto | Los equipos se subutilizan, las personas quedan sin acceso a información y servicios digitales, y dependen de la ayuda de otros |
+| Oportunidad tecnológica | Guías visuales de apoyo digital básico, tutoriales cortos accesibles por QR, y acompañamiento o talleres |
+
+## Problema 3 – Riesgo de pérdida de información en el Archivo Histórico
 | Elemento | Descripción |
 |---|---|
 | Espacio | Archivo Histórico |
-| Usuario | Personal del archivo, investigadores, ciudadanía |
-| Situación | Mucho material antiguo que se está digitalizando |
-| Problema | El volumen es enorme y la digitalización es lenta; el material se deteriora |
-| Evidencia | foto-02, explicación del personal |
-| Impacto | Posible pérdida de memoria histórica de Barranquilla |
-| Oportunidad tecnológica | Sistema de gestión de digitalización con voluntarios y metadatos |
+| Usuario | Personal del archivo, investigadores y ciudadanía |
+| Situación | Gran cantidad de material antiguo (documentos, fotografías, periódicos) que se está digitalizando |
+| Problema | El volumen es enorme y la digitalización se hace pieza por pieza, por lo que es lenta y requiere ayuda de personas; mientras tanto, el material se deteriora |
+| Evidencia | Explicación del personal del Archivo. Fotografía del archivo: `evidencias/fotografias/foto-02-archivo.jpg` |
+| Impacto | Posible pérdida de información importante para la memoria histórica de Barranquilla |
+| Oportunidad tecnológica | Sistema de gestión de digitalización con voluntarios, y catalogación con metadatos para facilitar la búsqueda |
 
-> Nota: este problema fue planteado por el CLENA como ejemplo durante la visita, por eso no lo seleccionamos como problema principal.
 
-## Problema 3 – [POR CONFIRMAR: orientación y señalización]
-| Elemento | Descripción |
-|---|---|
-| Espacio | Biblioteca / Galería |
-| Usuario | Visitantes |
-| Situación | [¿Notaron poca señalización o información sobre cómo usar los servicios?] |
-| Problema | [completar solo si lo observaron; si no, cámbienlo por otro que sí hayan visto] |
-| Evidencia | [foto o nota] |
-| Impacto | [completar] |
-| Oportunidad tecnológica | Señalización digital, mapa interactivo |
+## Problema seleccionado
+Los Problemas 1 y 2 se relacionan entre sí (ambos nacen de la poca experiencia tecnológica de los usuarios en la Biblioteca), por lo que se abordan juntos como problema seleccionado.
