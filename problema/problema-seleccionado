@@ -1,27 +1,28 @@
 # Problema seleccionado
 
-**Problema:** Dificultad de usuarios con poca experiencia tecnológica para ubicar libros en la Biblioteca del CLENA.
+**Problema:** Dificultad de las personas con poca experiencia tecnológica para acceder por sí solas a los recursos de la Biblioteca del CLENA, tanto para ubicar libros como para usar los computadores disponibles.
 
 ## Formulación (sin empezar por la tecnología)
-Las personas que visitan la Biblioteca del CLENA y tienen poca experiencia con herramientas digitales, como adultos mayores o visitantes ocasionales, no logran ubicar por sí solas los libros que necesitan. Esto ocurre en la Biblioteca, donde la consulta de la ubicación de los libros se hace en un computador que exige saber manejarlo. Como consecuencia, estas personas se desorientan, dependen de la ayuda del personal o abandonan la búsqueda.
+Las personas con poca experiencia en herramientas digitales que visitan la Biblioteca del CLENA, como adultos mayores y visitantes ocasionales, no logran aprovechar por sí solas los recursos del espacio. Les cuesta ubicar los libros que necesitan, porque la consulta de su ubicación se hace en un computador, y tampoco saben usar los computadores disponibles para el público, ni para encenderlos ni para realizar tareas básicas como investigar o enviar un correo. Como consecuencia, dependen del personal, abandonan sus búsquedas o dejan de usar los servicios, y la biblioteca no cumple plenamente su función de abrir el acceso a la información a todos.
 
 ## Las cinco preguntas
 | Pregunta | Respuesta |
 |---|---|
-| ¿Quién tiene el problema? | Usuarios con poca experiencia tecnológica; indirectamente, el personal de la biblioteca |
-| ¿Qué está ocurriendo? | No pueden realizar la búsqueda de libros por sí solos |
-| ¿Dónde ocurre? | Biblioteca del CLENA, en el punto de consulta |
-| ¿Por qué es importante? | La biblioteca existe para que la gente acceda al conocimiento; si una parte del público no puede usarla, se excluye |
-| ¿Qué consecuencias genera? | Frustración, abandono, menor uso del acervo, carga adicional para el personal |
+| ¿Quién tiene el problema? | Usuarios con poca experiencia tecnológica, como adultos mayores y visitantes ocasionales; indirectamente, el personal de la biblioteca. |
+| ¿Qué está ocurriendo? | No pueden buscar libros por sí solos ni usar los computadores del espacio para tareas básicas (encenderlos, investigar, escribir un correo). |
+| ¿Dónde ocurre? | En la Biblioteca del CLENA, en el punto de consulta de libros y en la zona de computadores. |
+| ¿Por qué es importante? | La biblioteca existe para que las personas accedan al conocimiento; si una parte del público no puede usar sus recursos, queda excluida. |
+| ¿Qué consecuencias genera? | Frustración, abandono de la búsqueda, menor uso del acervo y de los computadores, y más carga de atención para el personal. |
 
 ## Justificación
-[Expliquen en 3-4 líneas por qué eligieron este y no los otros: lo observaron directamente, afecta al público general, es realista de abordar, etc.]
+Seleccionamos este problema porque lo observamos directamente en la Biblioteca durante la visita y afecta a un grupo amplio de personas, no solo a un tipo de visitante. Además, tiene una relación clara con la Ingeniería de Sistemas: involucra el acceso a la información, el diseño de interfaces simples y el apoyo a usuarios con distintos niveles de conocimiento tecnológico. Lo consideramos abordable porque puede enfrentarse con soluciones de complejidad moderada, como una búsqueda simplificada, guías visuales y acceso por código QR. Descartamos como problema principal la digitalización del Archivo Histórico porque fue presentada por el CLENA como ejemplo, y preferimos analizar una situación que identificamos por nuestra propia observación.
 
 ## Usuarios y actores
 | Actor | Tipo | Relación con el problema |
 |---|---|---|
-| Adultos mayores | Usuario directo | Les cuesta usar el computador de búsqueda |
-| Visitantes ocasionales y turistas | Usuario directo | No conocen el sistema ni la distribución |
-| Estudiantes e investigadores | Usuario directo | Pueden necesitar búsquedas más ágiles |
-| Personal de la biblioteca | Responsable del proceso | Atiende dudas y gestiona el catálogo |
-| Administración del CLENA | Administrador | Decide y mantiene el sistema |
+| Adultos mayores | Usuario directo | Les cuesta usar el computador de búsqueda y los equipos del espacio. |
+| Visitantes ocasionales y turistas | Usuario directo | No conocen el sistema de búsqueda ni la distribución de la biblioteca. |
+| Personas con poca experiencia digital | Usuario directo | No saben encender ni usar los computadores para tareas básicas. |
+| Estudiantes e investigadores | Usuario directo | Pueden necesitar búsquedas más ágiles y claras. |
+| Personal de la biblioteca | Responsable del proceso | Atiende dudas de los usuarios y gestiona el catálogo. |
+| Administración del CLENA | Administrador | Decide, aprueba y mantiene cualquier solución. |
