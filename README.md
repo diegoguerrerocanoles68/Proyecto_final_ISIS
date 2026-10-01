@@ -6,7 +6,7 @@
 
 ## Integrantes y roles
 
-Diego Guerreo Canoles : Product Owner y Responsable de evidencias 
+Diego Guerreo Canoles : Product Owner y Responsable de evidencias
 Sair Cervantes Rey    : Development Team                           
 Andrés Badillo Cervera : Scrum Master                              
 Yussef Kassem Issa     : Responsable de documentación              
