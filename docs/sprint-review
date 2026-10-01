@@ -1,15 +1,19 @@
 # Sprint Review
 
-**Fecha:** [FECHA REAL] | **Medio:** Microsoft Teams | **Evidencia:** `evidencias/evidencias-scrum/review-01.png`
+**Fecha:** 
+**Medio:** Microsoft Teams
+**Evidencia:** `evidencias/evidencias-scrum/review-01.png`
 
 ## Lo que presentamos
-- Problema identificado: [resumen]
-- Evidencias de observación: [fotos/videos]
-- Propuesta de solución: [resumen]
-- Estado del proyecto: [tareas en Done / pendientes]
+- **Problema identificado:** Las personas con poca experiencia tecnológica que visitan la Biblioteca del CLENA, como adultos mayores y visitantes ocasionales, tienen dificultades para ubicar libros, ya que la búsqueda depende de un computador. Además, muchas no saben usar los computadores disponibles para el público, ni para encenderlos ni para tareas básicas como investigar o escribir un correo.
+- **Evidencias de observación:** Fotografías de la Biblioteca y del Archivo Histórico, y las notas tomadas durante la visita (ver `evidencias/fotografias/` y `problema/observaciones.md`).
+- **Propuesta de solución:** Un sistema de búsqueda asistida de libros (interfaz simple, mini tutorial y acceso por código QR) acompañado de una guía de apoyo digital básico para aprender a usar el computador.
+- **Estado del proyecto:** Repositorio creado y organizado, problema formulado y propuesta redactada. Pendientes: [completar según el tablero de GitHub Projects: tareas en Done y tareas pendientes].
 
 ## Retroalimentación recibida
-- [comentarios del docente o del equipo]
+- [Comentarios del docente o de los compañeros durante la reunión]
+- 
 
 ## Ajustes pendientes
-- [completar]
+- [Cambios que decidieron hacer a partir de la retroalimentación]
+-
