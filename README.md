@@ -5,12 +5,11 @@
 **Espacio del CLENA:** Biblioteca (también observamos el Archivo Histórico)
 
 ## Integrantes y roles
-|       Integrantes      | Rol del integrante                        |
-|---|----|---|---|---|---|---|---|---|---|---|---|---|----|---|---|--|
-| Diego Guerreo Canoles  | Product Owner y Responsable de evidencias |
-| Sair Cervantes Rey     | Development Team                          | 
-| Andrés Badillo Cervera | Scrum Master                              |
-| Yussef Kassem Issa     | Responsable de documentación              |
+
+Diego Guerreo Canoles : Product Owner y Responsable de evidencias |
+Sair Cervantes Rey    : Development Team                          | 
+Andrés Badillo Cervera : Scrum Master                              |
+Yussef Kassem Issa     : Responsable de documentación              |
 
   
 ---
