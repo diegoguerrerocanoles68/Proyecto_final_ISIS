@@ -1,38 +1,49 @@
 # Observaciones de la salida de campo
 
-**Fecha de la visita:** [FECHA REAL DE LA VISITA]
+**Fecha de la visita:** 
 **Lugar:** CLENA, Aduana de Barranquilla
-**Espacios visitados:** Biblioteca, Archivo Histórico, [otros: Biblioteca Infantil / Galería]
+**Espacios visitados:** Biblioteca, Archivo Histórico y recorrido general por el CLENA
 
 > Regla: aquí solo se describe lo que se VIO o se ESCUCHÓ, sin proponer soluciones todavía.
 
 ## 1. Biblioteca
 | Pregunta guía | Observación |
 |---|---|
-| ¿Quién usa el espacio? | Visitantes de distintas edades; se observó que muchos son adultos o personas con poco contacto con la tecnología. [completar] |
-| ¿Qué actividades realizan? | Buscar y consultar libros. [completar] |
-| ¿Cómo se hace actualmente? | Hay un computador donde se busca la ubicación del libro. [completar con detalles] |
-| ¿Qué información usan? | Título/autor/tema del libro y su ubicación. [completar] |
-| ¿Dónde hay dificultades? | Quien no sabe usar el computador no puede hacer la búsqueda por sí solo. |
-| ¿Qué procesos son manuales? | [completar: ¿preguntan al personal? ¿buscan en estantes?] |
+| ¿Quién usa el espacio? | Visitantes de distintas edades. Se observó que buena parte son personas adultas o con poco contacto con la tecnología. |
+| ¿Qué actividades realizan? | Buscar y consultar libros, y usar la zona de computadores disponible para el público. |
+| ¿Cómo se hace actualmente? | Hay un computador donde se consulta la ubicación de los libros. La búsqueda la hace el propio usuario en ese equipo. |
+| ¿Qué información usan? | Datos del libro (título, autor o tema) y su ubicación dentro de la biblioteca. |
+| ¿Cómo se almacena y consulta? | El catálogo se consulta digitalmente desde el computador. [confirmar con el personal cómo está construido el catálogo] |
+| ¿Dónde hay dificultades? | Quien no sabe manejar el computador no puede realizar la búsqueda por sí solo. Además, se observó que algunas personas no saben usar los computadores del espacio: encenderlos, navegar por internet o realizar tareas básicas como escribir un correo. |
+| ¿Qué procesos son manuales? | Quien no logra usar el buscador debe recurrir al personal o buscar el libro por su cuenta entre los estantes. [confirmar] |
+| ¿Qué actividades podrían mejorar con tecnología? | La consulta de libros y el acompañamiento en el uso básico del computador. |
 
 **Evidencia:** ![Computador de búsqueda](../evidencias/fotografias/foto-01-computador-biblioteca.jpg)
-*Descripción: [completar cuando tengan la foto]*
+*Descripción: Computador de la biblioteca utilizado para consultar la ubicación de los libros.*
+
+**Evidencia:** ![Zona de computadores](../evidencias/fotografias/foto-03-zona-computadores.jpg)
+*Descripción: Zona de computadores para el público dentro de la biblioteca.*
 
 ## 2. Archivo Histórico
 | Pregunta guía | Observación |
 |---|---|
-| ¿Quién usa el espacio? | Personal del archivo, investigadores, voluntarios. [completar] |
-| ¿Qué actividades realizan? | Conservar y digitalizar documentos, fotografías y periódicos antiguos. |
-| ¿Cómo se hace actualmente? | El personal explicó que el material se digitaliza y se sube a una nube, donde se encuentra por búsqueda. |
-| ¿Dónde hay dificultades? | Gran volumen de material antiguo; el personal mencionó que necesitan ayuda de personas para digitalizar. |
+| ¿Quién usa el espacio? | Personal del archivo, investigadores y personas que apoyan el proceso de digitalización. |
+| ¿Qué actividades realizan? | Conservan y digitalizan documentos, fotografías y periódicos antiguos. |
+| ¿Cómo se hace actualmente? | El personal explicó que el material se digitaliza y se sube a una nube, donde luego se encuentra mediante búsqueda. |
+| ¿Qué información usan? | Documentos, noticias, fotografías e información histórica de la ciudad. |
+| ¿Cómo se almacena y consulta? | Físicamente en el archivo y, a medida que se digitaliza, en una nube con función de búsqueda. El personal indicó que buscar así es mucho más rápido que revisar libro por libro o foto por foto. |
+| ¿Qué procesos son manuales? | La digitalización del material, que se hace pieza por pieza. |
+| ¿Dónde hay dificultades? | Gran volumen de material antiguo. El personal mencionó que necesitan ayuda de personas para digitalizar. |
 | ¿Qué información puede perderse? | Documentos antiguos en deterioro antes de ser digitalizados. |
+| ¿Qué actividades requieren mucho tiempo? | La digitalización de todo el material. |
 
 **Evidencia:** ![Archivo histórico](../evidencias/fotografias/foto-02-archivo.jpg)
-*Descripción: [completar]*
+*Descripción: Material del Archivo Histórico pendiente de digitalizar.*
+
+> Nota: el personal del CLENA presentó esta problemática como ejemplo durante la visita.
 
 ## 3. Otros espacios
-[Completar con lo observado en la Biblioteca Infantil o en la Galería, aunque sea breve.]
+Durante el recorrido general se explicó parte de la historia de Barranquilla. [Si visitaron la Biblioteca Infantil o el Centro Interactivo de Memoria Urbana, agreguen aquí lo que vieron; si no, pueden borrar esta línea.]
 
 ## Entrevistas o comentarios del personal
-- [Nombre/cargo de la persona]: [qué explicó]
+- Personal del Archivo Histórico [nombre/cargo]: explicó que el material antiguo se está digitalizando para evitar que la información se pierda, que se sube a una nube donde es más fácil de encontrar mediante búsqueda, y que necesitan apoyo de personas para hacerlo.
