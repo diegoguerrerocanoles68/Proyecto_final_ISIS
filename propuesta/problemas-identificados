@@ -1,29 +1,47 @@
 # Propuesta de solución
 
 ## ¿Qué se propone?
-Un **sistema de búsqueda asistida de libros** que haga la consulta simple y accesible para cualquier persona, sin importar su experiencia tecnológica.
+Una solución de **acceso asistido a la información** para la Biblioteca del CLENA, con dos componentes que se complementan:
+
+1. **Búsqueda asistida de libros:** un sistema que simplifica la consulta de la ubicación de los libros para cualquier persona, sin importar su experiencia tecnológica.
+2. **Guía de apoyo digital básico:** un conjunto de tutoriales cortos y visuales que enseñan a usar el computador para tareas básicas.
 
 ## ¿Para quién?
-Adultos mayores, visitantes ocasionales y cualquier usuario de la Biblioteca; también facilita el trabajo del personal.
+- **Usuarios directos:** adultos mayores, visitantes ocasionales y personas con poca experiencia digital que visitan la Biblioteca.
+- **Usuarios indirectos:** el personal de la biblioteca, que dedicaría menos tiempo a resolver dudas básicas, y la administración del CLENA.
 
 ## ¿Qué problema resuelve?
-Elimina la barrera de no saber usar el computador de búsqueda, permitiendo encontrar la ubicación de un libro de forma guiada.
+Responde directamente al problema seleccionado: las personas con poca experiencia tecnológica no logran ubicar libros por sí solas ni usar los computadores del espacio para tareas básicas. La solución elimina esas barreras y reduce la dependencia del personal.
 
 ## ¿Cómo funcionaría?
+
+### Componente 1: Búsqueda asistida de libros
 1. **Interfaz simplificada:** pantalla con un único campo de búsqueda, letra grande y botones claros.
-2. **Guía paso a paso:** un mini tutorial visual antes de la primera búsqueda.
-3. **Acceso por código QR:** un QR visible en la biblioteca permite abrir el buscador desde el celular del usuario.
-4. **Resultado claro:** el sistema muestra la sección, estante y un mapa sencillo para llegar al libro.
+2. **Guía paso a paso:** un mini tutorial visual que se muestra antes de la primera búsqueda.
+3. **Acceso por código QR:** un QR visible en la biblioteca permite abrir el buscador desde el celular del usuario, sin depender del computador.
+4. **Resultado claro:** el sistema muestra la sección, el estante y un mapa sencillo para llegar al libro.
+
+### Componente 2: Guía de apoyo digital básico
+1. **Tutoriales visuales cortos**, con imágenes y pasos numerados, disponibles en pantalla y por código QR.
+2. **Temas básicos:** encender y apagar el computador, usar el mouse y el teclado, buscar información en internet y escribir un correo electrónico.
+3. **Lenguaje sencillo y letra grande**, pensado para personas que nunca han usado un computador.
+4. **Acompañamiento complementario:** talleres presenciales breves o voluntarios que apoyen a quienes lo necesiten.
 
 ## ¿Qué tecnología podría utilizarse?
-- Aplicación web simple y responsiva (funciona en el computador y el celular)
-- Código QR
-- Base de datos o conexión con el catálogo actual de la biblioteca [verificar con el personal cómo está hecho el catálogo]
-- Pantalla táctil como opción adicional
+- **Aplicación web simple y responsiva**, que funcione tanto en el computador como en el celular.
+- **Código QR** para acceder rápido al buscador y a las guías.
+- **Pantalla táctil** como opción adicional para facilitar el uso.
+- **Contenido multimedia** (imágenes, videos cortos) para los tutoriales.
+
+## Beneficios esperados
+- Mayor autonomía de los usuarios para encontrar libros y usar los computadores.
+- Menor carga de atención básica para el personal de la biblioteca.
+- Mayor uso del acervo y de los equipos disponibles.
+- Acceso más incluyente para personas con poca experiencia digital.
 
 ## Alternativas consideradas
-- Señalización física mejorada (más barata, pero no resuelve la búsqueda)
-- Asistente humano dedicado (efectivo, pero depende de personal disponible)
+- **Señalización física mejorada:** es más económica, pero no resuelve la búsqueda de libros ni enseña a usar el computador.
+- **Asistente humano dedicado:** es efectivo, pero depende de que haya personal disponible en todo momento.
 
 ## Limitaciones
-No se desarrollará en este laboratorio. Habría que confirmar con el CLENA la viabilidad técnica y el permiso de acceso al catálogo.
+No se desarrollará la tecnología en este laboratorio. Para implementarla habría que confirmar con el CLENA la viabilidad técnica, el permiso de acceso al catálogo y la disponibilidad de personal o voluntarios para los talleres.
