@@ -104,21 +104,31 @@ HU-30 Cola de solicitudes ↔ HU-31 Panel de temas más consultados.
  
 ## Comparación con la aplicación construida por Backend
  
-**Pantalla comparada:** PENDIENTE (por ejemplo, HU-09 Inicio y categorías).
+**Pantalla comparada:** HU-09 Inicio y categorías (nuestro Figma) frente a la pantalla de inicio «Explorar guías» de la versión de prueba de Backend, llamada **Kamá**: https://claude.ai/artifact/VN5Na3MUrkuJhcniSfyqqx
  
+Revisamos la pantalla de inicio de la versión de prueba en un ancho de celular (412 px).
+
+ <img width="269" height="574" alt="image" src="https://github.com/user-attachments/assets/521cf504-ebd1-425c-b1bb-3455aae1e401" />
+<img width="412" height="2055" alt="image" src="https://github.com/user-attachments/assets/29210ab2-e0a1-4030-93e6-a345d949264e" />
+
 | Aspecto | Prototipo en Figma | Aplicación de Backend |
 |---|---|---|
-| Tamaño de la letra | PENDIENTE | PENDIENTE |
-| Tamaño de los botones | PENDIENTE | PENDIENTE |
-| Contraste y colores | PENDIENTE | PENDIENTE |
-| Botones de ayuda y tamaño de letra | PENDIENTE | PENDIENTE |
+| Tamaño de la letra | Mínimo 18 px. Algunos textos de apoyo son más pequeños que los títulos | Texto base de 20 px y selector de tres tamaños de letra (normal, grande y muy grande) |
+| Botones | Botones grandes de color azul con texto blanco | Botones de 52 a 64 px de alto y tarjetas de tema de más de 120 px, fáciles de tocar |
+| Ayuda | Botón «Ayuda» en la parte superior, junto a «A-» y «A+» | Botón «Pedir ayuda a una persona» en la parte superior, con texto completo |
+| Accesibilidad | Tamaño de letra con «A-» y «A+» | Selector de letra, «Alto contraste», «Leer en voz alta» y «Modo sencillo» |
+| Temas | Una categoría: «Phishing» | Cinco temas por tipo de engaño: correos, SMS y WhatsApp, llamadas, engaños a la medida y códigos QR |
+| Crear cuenta | Enlace «Crear cuenta» en el inicio | No se ve en la pantalla de inicio |
  
-**Diferencias que deben corregirse:** PENDIENTE.
+**Lo que coincide con el diseño:** la ayuda siempre visible arriba, botones grandes, texto sencillo, colores azules con buen contraste y un tema por botón con ícono y texto.
  
-![Pantalla del prototipo](capturas/comparacion-figma.png)
-![Pantalla de la aplicación de Backend](capturas/comparacion-backend.png)
+**Lo que la aplicación hace mejor que nuestro diseño:** la pregunta inicial «¿cómo ve mejor la pantalla?», que deja elegir letra grande o alto contraste desde el primer momento, y los títulos de cada tema, que dicen el tipo de engaño con palabras sencillas («Correos falsos», «Llamadas falsas»).
  
-## Nota
- 
-El prototipo es una guía para el equipo de Backend, no un diseño final. Los textos, imágenes y datos de ejemplo son ficticios.
+**Diferencias que conviene revisar con el equipo de Backend (para el siguiente sprint):**
+1. **Crear cuenta (HU-01 y HU-03):** en nuestro diseño hay una invitación opcional a crear cuenta desde el inicio. Esperamos ver ese acceso para guardar el progreso.
+2. **Temas (HU-17 a HU-20):** el backlog define la categoría «Phishing» con las guías de Smishing, Vishing, Quishing y Falso soporte técnico. La aplicación muestra «Engaños hechos a su medida» (spear phishing) y no muestra «Falso soporte técnico». Conviene confirmar el alcance con el Product Owner.
+3. **Quishing:** aparece como «Próximamente». Es una historia «Must» (HU-19) y debería estar disponible.
+4. **Textos pequeños de nuestro Figma:** algunos textos de apoyo, como «Explora y aprende» y «Crear cuenta», se ven más pequeños que el resto. Los vamos a subir a 18 px para igualar la legibilidad de la aplicación.
+Solo comparamos la pantalla de inicio. Las demás pantallas las revisaremos cuando estén en la versión de prueba.
+  Backend, no un diseño final. Los textos, imágenes y datos de ejemplo son ficticios.
  
