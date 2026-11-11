@@ -29,42 +29,50 @@ Pensado para el público real de la Sala de Internet (adultos mayores y personas
 **1. HU-45 Entrada por QR**
 Pantalla de bienvenida a la que se llega al escanear el código QR del puesto, sin necesidad de iniciar sesión. Muestra el título «Bienvenido al CLENA» y el botón «Empezar».
  
-![HU-45 Entrada por QR](capturas/hu-45.png)
+<img width="283" height="577" alt="image" src="https://github.com/user-attachments/assets/1ffe0a18-f81e-4616-9a8a-c3a50bcb39b3" />
+
  
 **2. HU-09 Inicio y categorías**
 Pantalla de inicio con la categoría «Phishing» como botón grande con ícono y texto, y la opción de crear cuenta.
  
-![HU-09 Inicio y categorías](capturas/hu-09.png)
+<img width="269" height="574" alt="image" src="https://github.com/user-attachments/assets/521cf504-ebd1-425c-b1bb-3455aae1e401" />
+
  
 **3. HU-10 Guía paso a paso**
 Muestra un paso a la vez («Paso 2 de 6»), con instrucción corta, imagen de apoyo y botones grandes «Anterior» y «Siguiente».
  
-![HU-10 Guía paso a paso](capturas/hu-10.png)
+<img width="273" height="572" alt="image" src="https://github.com/user-attachments/assets/43da355f-e164-41e4-9de1-3f9333d5a2c6" />
+
  
 **4. HU-21 Pregunta con retroalimentación**
 Pregunta de práctica («Pregunta 2 de 4») con opciones grandes. Muestra la retroalimentación de acierto con ícono ✓, texto y una explicación corta, y el botón «Continuar».
  
-![HU-21 Pregunta con retroalimentación](capturas/hu-21.png)
+<img width="271" height="574" alt="image" src="https://github.com/user-attachments/assets/364b86c1-f014-4b70-9eb5-ce73de9b2a26" />
+
  
 **5. HU-28 Menú de Ayuda**
 Menú que se abre desde el botón «Ayuda» de cualquier pantalla, con tres opciones: «Preguntas frecuentes», «¿Qué significa esta palabra?» y «Llamar a un monitor».
  
-![HU-28 Menú de Ayuda](capturas/hu-28.png)
+<img width="270" height="578" alt="image" src="https://github.com/user-attachments/assets/5b117edc-4717-4008-9b67-6ab67090d612" />
+
  
 **6. HU-29 Solicitar ayuda presencial**
 Formulario con el número de equipo y el tema de la duda. Al enviar, muestra «Un monitor vendrá pronto» y la posición en la cola, con opción de cancelar.
  
-![HU-29 Solicitar ayuda presencial](capturas/hu-29.png)
+<img width="266" height="566" alt="image" src="https://github.com/user-attachments/assets/572bb832-f585-494c-9a27-fc1582e0c3b5" />
+
  
 **7. HU-01 Registro con consentimiento**
 Formulario con nombre, número de identificación, fecha de nacimiento, teléfono o correo, y la casilla de aceptación del aviso de privacidad.
  
-![HU-01 Registro con consentimiento](capturas/hu-01.png)
+<img width="278" height="571" alt="image" src="https://github.com/user-attachments/assets/4d63355a-80b2-4511-bf15-af1469af7dd6" />
+
  
 **8. HU-23 Mi progreso**
 Muestra cada guía con su barra de progreso y porcentaje. Las completadas llevan una marca y las pendientes, el botón «Empezar».
  
-![HU-23 Mi progreso](capturas/hu-23.png)
+<img width="274" height="567" alt="image" src="https://github.com/user-attachments/assets/52b0816a-1967-4dbc-90a1-d6adf42cc77e" />
+
  
 ### Pantallas de computador (personal del CLENA)
  
@@ -73,12 +81,12 @@ Tabla con las solicitudes de ayuda: equipo, tema, guía y paso, y tiempo de espe
 <img width="921" height="684" alt="image" src="https://github.com/user-attachments/assets/54a9d709-0348-4818-8efc-1e34d41996cd" />
 
  
-![HU-30 Cola de solicitudes](capturas/hu-30.png)
  
 **10. HU-31 Panel de temas más consultados**
 Panel para la coordinadora con el top de guías más abiertas, un gráfico de consultas, el filtro de fechas y el resumen de solicitudes de ayuda.
  
-![HU-31 Panel de temas más consultados](capturas/hu-31.png)
+<img width="966" height="629" alt="image" src="https://github.com/user-attachments/assets/7cfc5e0e-27b9-47a5-bd35-8822f9a528ad" />
+
  
 ## Flujos navegables
  
