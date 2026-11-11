@@ -4,10 +4,10 @@ Enlaces a las grabaciones de Microsoft Teams de las reuniones con el equipo de B
  
 ## Reuniones con el equipo de Backend
  
-| Fecha | Tema | Asistentes | Grabación en Teams | Acta |
+| Fecha | Tema | | Grabación en Teams |
 |---|---|---|---|---|
-| AAAA-MM-DD | PENDIENTE | PENDIENTE | [Ver grabación](PEGAR-ENLACE) | [Acta](actas/AAAA-MM-DD-tema.md) |
-| AAAA-MM-DD | PENDIENTE | PENDIENTE | [Ver grabación](PEGAR-ENLACE) | [Acta](actas/AAAA-MM-DD-tema.md) |
+| AAAA-MM-DD | PENDIENTE | [Ver grabación](PEGAR-ENLACE) |
+| AAAA-MM-DD | PENDIENTE | [Ver grabación](PEGAR-ENLACE) | 
  
 ## Sprint Review
  
@@ -15,11 +15,11 @@ Enlaces a las grabaciones de Microsoft Teams de las reuniones con el equipo de B
 |---|---|---|---|
 | AAAA-MM-DD | PENDIENTE | [Ver grabación](PEGAR-ENLACE) | Ver `alianza.md`, sección 4 |
  
-## Prueba del incremento
+## Muestra de product Backlog
  
-| Fecha | Versión probada | Evidencia |
-|---|---|---|
-| AAAA-MM-DD | PENDIENTE (enlace de la demo o app desplegada) | Issues con la etiqueta `feedback-cliente`, en `alianza.md`, sección 5 |
+| Fecha | Evidencia |
+|---|---|
+| 2026-11-04|[(https://teams.cloud.microsoft/l/message/19:PGBIJd8cTSBXRQGCt7A3JDuwoRr21B_cxD87YHB4k2E1@thread.tacv2/1793824973967?tenantId=bab0b679-bd5f-4fe8-b516-c6b8b317c782&groupId=9b58bfcc-f210-4757-884e-330d69c31970&parentMessageId=1793824973967&teamName=Equipo%20P5-CLENA&channelName=Reuniones&createdTime=1793824973967) |
  
 ## Verificación
  
