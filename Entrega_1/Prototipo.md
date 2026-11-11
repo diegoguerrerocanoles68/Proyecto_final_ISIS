@@ -70,6 +70,8 @@ Muestra cada guía con su barra de progreso y porcentaje. Las completadas llevan
  
 **9. HU-30 Cola de solicitudes (monitor)**
 Tabla con las solicitudes de ayuda: equipo, tema, guía y paso, y tiempo de espera, de la más antigua a la más reciente. Incluye los botones «Tomar» y «Resolver».
+<img width="921" height="684" alt="image" src="https://github.com/user-attachments/assets/54a9d709-0348-4818-8efc-1e34d41996cd" />
+
  
 ![HU-30 Cola de solicitudes](capturas/hu-30.png)
  
