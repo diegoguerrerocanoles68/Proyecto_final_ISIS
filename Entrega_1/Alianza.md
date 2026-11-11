@@ -29,7 +29,8 @@ El backlog con nuestras historias de usuario priorizadas se revisó con el equip
  
 **Fecha de la captura del tablero:** 2026-11-11
  
-<img width="373" height="527" alt="image" src="https://github.com/user-attachments/assets/d937fa2b-38dc-42d8-b4bd-fde99539c575" />
+<img width="940" height="404" alt="image" src="https://github.com/user-attachments/assets/29d8b0d9-ed49-44c4-b023-bcb2316d115b" />
+
 
  
 ## 4. Sprint Review
@@ -49,49 +50,57 @@ El backlog con nuestras historias de usuario priorizadas se revisó con el equip
 - **Qué esperábamos:** Esperábamos poder elegir un nivel y ver solo las guías de ese nivel.
 - **Qué pasó:** Encontramos cuatro botones, uno por nivel y otro para ver todas las lecciones. Cada botón filtra bien.
 - **Sugerencia:** Permitir elegir más de un nivel a la vez (por ejemplo, básico e intermedio).
-- <img width="600" height="849" alt="image" src="https://github.com/user-attachments/assets/5cbc6f03-ef0f-4b13-a104-719f9108e669" />
+- <img width="738" height="1414" alt="image" src="https://github.com/user-attachments/assets/95455cd0-1105-43ed-a54b-13375c3c40fe" />
+
 
 **2. HU-41 · Lectura en voz alta de las guías**
 - **Qué esperábamos:** Esperábamos un botón que lea en voz alta lo escrito en la lección.
 - **Qué pasó:** El botón está en el menú principal y también dentro de la lección. Al presionarlo lee todo el contenido.
 - **Sugerencia:** Poder subir o bajar el volumen de la voz que lee el texto.
-- <img width="495" height="700" alt="image" src="https://github.com/user-attachments/assets/c1dba322-ddc5-44f8-b0b8-6ee49e58b84b" />
+- <img width="738" height="1410" alt="image" src="https://github.com/user-attachments/assets/a76ee923-95e9-43e5-b28d-c8fbbc15800c" />
+
 
 **3. HU-36 · Ajustar el tamaño de la letra**
 - **Qué esperábamos:** Esperábamos poder ajustar el tamaño de la letra dentro de la página.
 - **Qué pasó:** Encontramos un pequeño menú que permite cambiar el tamaño de la letra.
 - **Sugerencia:** Usar una barra deslizante en lugar de botones, para ajustar el tamaño a la preferencia de cada persona.
-- <img width="386" height="546" alt="image" src="https://github.com/user-attachments/assets/a1775a62-993e-42b7-a321-48aa5fc0b028" />
+- <img width="738" height="1419" alt="image" src="https://github.com/user-attachments/assets/6e1128d1-200e-439c-be18-33af7a78c712" />
+
 
 **4. HU-39 · Uso desde el celular**
 - **Qué esperábamos:** Esperábamos una experiencia de lectura fluida desde el celular.
 - **Qué pasó:** La página se ve bien al principio, pero al agrandar la letra el menú ocupa más de la mitad de la pantalla y dificulta la lectura.
 - **Sugerencia:** Arreglar el menú para que no ocupe más de la mitad de la pantalla cuando se cambia el tamaño de letra.
-- <img width="373" height="527" alt="image" src="https://github.com/user-attachments/assets/6577a467-4449-4f74-8a97-7bac7c898d21" />
+- <img width="738" height="1403" alt="image" src="https://github.com/user-attachments/assets/1ed087dd-15f5-4e21-b1e8-94f048b99cb4" />
+
 
 **5. HU-27 · Identificar información confiable**
 - **Qué esperábamos:** Esperábamos, dentro del apartado de engaños, una sección para aprender a revisar si una página es confiable.
 - **Qué pasó:** No existe un apartado para este tema.
 - **Sugerencia:** Crear el apartado para revisar si una página es confiable, con los criterios de la historia.
-- <img width="373" height="527" alt="image" src="https://github.com/user-attachments/assets/e126f8fc-ff9a-4806-a875-e5ae80d3abe5" />
+- <img width="1530" height="531" alt="image" src="https://github.com/user-attachments/assets/1e521570-2dbf-4bef-bed6-4b3bf22c3da1" />
+
 
 **6. HU-06 · Iniciar sesión como personal del CLENA**
 - **Qué esperábamos:** Esperábamos, en la parte superior de la página, un acceso de inicio de sesión para el personal.
 - **Qué pasó:** No existe un acceso de inicio de sesión para el personal del CLENA.
 - **Sugerencia:** Crear el acceso de inicio de sesión para los trabajadores del CLENA.
-- <img width="373" height="527" alt="image" src="https://github.com/user-attachments/assets/d68af16a-5242-4ae5-93e7-22c1bd2c4e4f" />
+- <img width="1485" height="900" alt="image" src="https://github.com/user-attachments/assets/f6e3bccd-11bc-4b49-9794-9d3359ecb56b" />
+
 
 **7. HU-07 · Restablecimiento de contraseña para personal del CLENA**
 - **Qué esperábamos:** Esperábamos una opción para restablecer la contraseña dentro del inicio de sesión del personal (HU-06).
 - **Qué pasó:** No existe una opción para restablecer la contraseña del personal.
 - **Sugerencia:** Crear el inicio de sesión del personal y, dentro de él, la opción de restablecer la contraseña.
-- <img width="373" height="527" alt="image" src="https://github.com/user-attachments/assets/a2f077b2-c059-4b3e-8d9f-dbc815d30fec" />
+- <img width="1485" height="900" alt="image" src="https://github.com/user-attachments/assets/1b511930-e681-4fb4-9016-ef4c31b494d9" />
+
 
 **8. HU-18 · Contenido: Vishing**
 - **Qué esperábamos:** Esperábamos un apartado especial para aprender sobre engaños telefónicos, suplantación de identidad y cómo proteger la información en llamadas sospechosas.
 - **Qué pasó:** Encontramos apartados para mensajes falsos por SMS y WhatsApp y para llamadas falsas (vishing).
 - **Sugerencia:** Ampliar las guías de este tema.
-- <img width="373" height="527" alt="image" src="https://github.com/user-attachments/assets/e9ba575f-a3f7-4b35-854c-3d4eb72d5354" />
+- <img width="1021" height="185" alt="image" src="https://github.com/user-attachments/assets/66af082a-57a6-43ff-a7f5-a401f5bacda6" />
+
 
 ## 6. Estado de avance de las historias «Debe tener»
  
