@@ -104,7 +104,7 @@ HU-30 Cola de solicitudes ↔ HU-31 Panel de temas más consultados.
  
 ## Comparación con la aplicación construida por Backend
  
-**Pantalla comparada:** HU-09 Inicio y categorías (nuestro Figma) frente a la pantalla de inicio «Explorar guías» de la versión de prueba de Backend, llamada **Kamá**: https://claude.ai/artifact/VN5Na3MUrkuJhcniSfyqqx
+**Pantalla comparada:** HU-09 Inicio y categorías (nuestro Figma) frente a la pantalla de inicio «Explorar guías» de la versión de prueba de Backend, llamada **Kamá**
  
 Revisamos la pantalla de inicio de la versión de prueba en un ancho de celular (412 px).
 
